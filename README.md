@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw22OSmcOrUDDPNlnrZvYtau&ust=1721809499956000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKD3lLHevIcDFQAAAAAdAAAAABAE"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
