@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision and Object Detection<br>🤝 I’m looking for help with artificial learning <br>🌱 I’m currently learning Object Detection<br>💬 Ask me about Tensorflow , Linux<br>⚡ Fun fact I love anime
+🔭 I’m currently working on Natural Language Processing and Sentiment analysis.<br>🤝 I’m looking for help with artificial learning <br>🌱 I’m currently learning LSTM RRN<br>💬 Ask me about Tensorflow , Linux<br>⚡ Fun fact I love anime
 
 
 ## 🌐 Socials:
