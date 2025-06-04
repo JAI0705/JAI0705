@@ -94,7 +94,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jai0705/jai0705/output/snake.svg" alt="Snake animation" />
+<img src="https://jai0705.github.io/snk/snake.svg" alt="Snake animation" />
+
 
 ###
 
